@@ -19,17 +19,16 @@
 
 ---
 
-### 🎓 About Me
+### 🚀 About Me
 
-- 🎓 BCA student at **Centurion University of Technology and Management**
-- 💻 Interested in programming & software development
-- 🧠 Currently learning **Data Structures, DBMS, Cloud Computing**
-- 🌐 Core skills: **Python, C++, HTML**
-- 🚀 Passionate about building projects & sharpening coding skills
-- 📚 Always eager to learn new technologies
-- ⚡ Fun fact: I like turning boring READMEs into something people actually stop and look at 😄
-
----
+- 🎯 BCA student at **Centurion University** (graduating May 2027), aiming for an entry-level **Cloud Engineer** role
+- ☁️ Hands-on experience with **cloud-connected IoT systems** — three-tier architecture (edge → cloud → dashboard) with data classification & alerting
+- 🐍 Building backend systems & automation using **Python**, with growing focus on **Infrastructure-as-Code & DevOps**
+- 🌐 Full-stack development with **React.js, Flask, FastAPI**, REST APIs & **Supabase (PostgreSQL)/MySQL**
+- 📡 Working knowledge of **MQTT** and client-server communication for distributed/networked systems
+- 🔧 Comfortable with **Git/GitHub** for version control & collaborative workflows
+- 🧠 Currently sharpening skills in **Data Structures, DBMS, and Cloud Computing**
+- 🛠️ Recent build: **NextStep AI** — an AI-powered career platform using Gemini AI, React, FastAPI & Supabase, deployed on Vercel/Render
 
 ### 🛠️ Tech Stack
 
